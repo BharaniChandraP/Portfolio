@@ -1,6 +1,6 @@
 import React from 'react';
 import { Box, Heading, VStack, Text, SimpleGrid, Icon, Link, Badge, Flex, Button } from '@chakra-ui/react';
-import { FaExternalLinkAlt, FaBook, FaGlobe, FaMicroscope, FaAward, FaFilePdf } from 'react-icons/fa';
+import { FaExternalLinkAlt, FaBook, FaMicroscope, FaAward, FaFilePdf } from 'react-icons/fa';
 import { SiGooglescholar } from 'react-icons/si';
 
 const Research = () => {

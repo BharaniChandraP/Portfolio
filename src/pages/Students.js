@@ -66,9 +66,9 @@
 // export default Students;
 
 
-import React from 'react';
-import { Box, Heading, Text, SimpleGrid, Badge, VStack, Flex, Stack } from '@chakra-ui/react';
-import { FaUniversity, FaUserCheck, FaMicroscope } from 'react-icons/fa';
+// import React from 'react';
+import { Box, Heading, Text, SimpleGrid, VStack, Flex, } from '@chakra-ui/react';
+import { FaUniversity, FaMicroscope } from 'react-icons/fa';
 
 // Helper components defined at the top to avoid initialization errors
 const CommitteeCard = ({ univ, scholar }) => (

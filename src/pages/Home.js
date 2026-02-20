@@ -130,10 +130,10 @@
 
 
 
-import React from 'react';
+// import React from 'react';
 import { 
   Box, VStack, Heading, Text, SimpleGrid, Flex, 
-  Badge, Stack, Button, Link, HStack, Icon, Image 
+  Badge, Stack, Button, HStack, Icon, Image 
 } from '@chakra-ui/react';
 import { FaLinkedin, FaEnvelope, FaPhoneAlt, FaMapMarkerAlt, FaCheckCircle } from 'react-icons/fa';
 import { SiGooglescholar } from 'react-icons/si';

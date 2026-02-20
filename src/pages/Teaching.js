@@ -66,9 +66,9 @@
 
 
 
-import React from 'react';
-import { Box, Heading, Text, SimpleGrid, Badge, VStack, Flex, Icon, List, ListItem } from '@chakra-ui/react';
-import { FaGamepad, FaUsers, FaBookOpen } from 'react-icons/fa';
+// import React from 'react';
+import { Box, Heading, Text, SimpleGrid, Badge, Flex, Icon } from '@chakra-ui/react';
+import { FaGamepad, FaBookOpen } from 'react-icons/fa';
 
 const Teaching = () => {
   return (
