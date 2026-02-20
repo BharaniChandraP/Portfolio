@@ -1,5 +1,5 @@
-import React from 'react';
-import { Box, Heading, Text, VStack, SimpleGrid, Badge, Flex, Icon } from '@chakra-ui/react';
+// import React from 'react';
+import { Box, Heading, Text, VStack, SimpleGrid, Badge, Flex } from '@chakra-ui/react';
 // import { FaTrophy, FaBriefcase } from 'react-icons/fa';
 
 const HonorItem = ({ role, org }) => (
