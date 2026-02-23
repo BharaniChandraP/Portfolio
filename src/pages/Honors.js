@@ -51,7 +51,7 @@
 
 import React from 'react';
 import { Box, Heading, Text, VStack, SimpleGrid, Badge, Flex, Icon } from '@chakra-ui/react';
-import { FaTrophy, FaBriefcase, FaGlobe } from 'react-icons/fa';
+import {  FaBriefcase, FaGlobe } from 'react-icons/fa';
 
 const HonorItem = ({ role, org }) => (
   <Flex 

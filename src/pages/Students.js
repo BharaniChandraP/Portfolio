@@ -139,7 +139,7 @@
 
 
 import React from 'react';
-import { Box, Heading, Text, SimpleGrid, VStack, Flex, Icon } from '@chakra-ui/react';
+import { Box, Heading, Text, SimpleGrid, VStack, Flex } from '@chakra-ui/react';
 import { FaUniversity, FaMicroscope } from 'react-icons/fa';
 
 // Helper components defined at the top to avoid initialization errors
